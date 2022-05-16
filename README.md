@@ -1,5 +1,5 @@
 # zedrent
-A E-commerce website made using Djnago.
+A E-commerce website made using Django.
 
 
 
